@@ -19,7 +19,7 @@ Antes de este Bootcamp, estudié en plataformas como [Platzi](https://platzi.com
 
 ---------------------------------------------------------------------------------------------------
 
-## Terminal ![Terminal DEC VT100](https://en.wikipedia.org/wiki/Computer_terminal#/media/File:DEC_VT100_terminal_transparent.png)
+## Terminal
 
 ### Tabla con comandos de la terminal de WSL/Ubuntu que he aprendido y usado bastante 🙌🏻
 
