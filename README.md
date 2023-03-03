@@ -1,3 +1,5 @@
+> `http://localhost:8080/README/index.html`
+
 # Hola 👋🏻, mi nombre es Guillermo Bello
 
 ## Soy estudiante del Bootcamp `Full-stack JavaScript Developer` de **Undefined Academy** 💻📚
@@ -19,7 +21,7 @@ Antes de este Bootcamp, estudié en plataformas como [Platzi](https://platzi.com
 
 ---------------------------------------------------------------------------------------------------
 
-## Terminal
+## Terminal 💻
 
 ### Tabla con comandos de la terminal de WSL/Ubuntu que he aprendido y usado bastante 🙌🏻
 
@@ -32,7 +34,7 @@ Antes de este Bootcamp, estudié en plataformas como [Platzi](https://platzi.com
 |       ``git clone``       | Permite clonar cualquier repositorio de [GitHub](https://github.com/ "https://github.com/") directamente a nuestra área de trabajo local. |
 |         ``rmdir``         | Permite borrar/remover una o varias carpetas. |
 
-### Tabla de **comandos alias** útiles para el día a día de un/a desarrollador/a 👨🏻‍💻👩🏻‍💻
+### Tabla de **comandos ***alias***** útiles para el día a día de un/a desarrollador/a 👨🏻‍💻👩🏻‍💻
 
 |          Comando          |                              Descripción                                                              |
 |---------------------------|-------------------------------------------------------------------------------------------------------|
