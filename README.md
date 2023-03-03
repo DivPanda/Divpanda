@@ -4,7 +4,7 @@
 
 Desde mi adolescencia tengo interés por las tecnologías a lo largo de la historia, me encanta aprender cosas nuevas y, aunque no enfoqué mi vida a estudiar programación desde el principio, creo que la vida me fue madurando y preparando para llegar a este momento.
 
-### Me siento listo para estudiar y **dedicarme** a esta [html element: p]  `profesión`, **superando** los `retos` que traiga el porvenir 💪🏻
+### Me siento listo para estudiar y **dedicarme** a esta  `profesión`, **superando** los `retos` que traiga el porvenir 💪🏻
 
 ---------------------------------------------------------------------------------------------------
 
@@ -36,7 +36,7 @@ Antes de este Bootcamp, estudié en plataformas como [Platzi](https://platzi.com
 
 |          Comando          |                              Descripción                                                              |
 |---------------------------|-------------------------------------------------------------------------------------------------------|
-|          ``pwd``          | |
-|          ``ls``           | |
-|          ``cd``           | |
-|          ``wget``         | |
+|          ``cl``           | Sería una abreviación para el comando ``clear`` y hace lo mismo, limpiar la consola. |
+|          ````           | |
+|          ````           | |
+|          ````         | |
