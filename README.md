@@ -1,44 +1,35 @@
-> `http://localhost:8080/README/index.html`
-
 # Hola 👋🏻, mi nombre es Guillermo Bello
 
 ## Soy estudiante del Bootcamp `Full-stack JavaScript Developer` de **Undefined Academy** 💻📚
 
-Desde mi adolescencia tengo interés por las tecnologías a lo largo de la historia, me encanta aprender cosas nuevas y, aunque no enfoqué mi vida a estudiar programación desde el principio, creo que la vida me fue madurando y preparando para llegar a este momento.
+Desde mi adolescencia tengo interés por las tecnologías y su evolución a lo largo de la historia. Me encanta aprender cosas nuevas y, después de haber cursado distintas carreras en la Universidad y no haber hecho ese ***click***, creo que la vida me fue encaminando para llegar a este momento.
 
-### Me siento listo para estudiar y **dedicarme** a esta  `profesión`, **superando** los `retos` que traiga el porvenir 💪🏻
+### Me siento listo para **dedicarme** a esta  `profesión`, **superando** los `retos` que traiga el porvenir 💪🏻
 
 ---------------------------------------------------------------------------------------------------
 
-## Experiencia previa 🏗️
+## Experiencia previa en este campo 🏗️
 
-Antes de este Bootcamp, estudié en plataformas como [Platzi](https://platzi.com/ "https://platzi.com/") y [Freecodecamp](https://www.freecodecamp.org/ "https://www.freecodecamp.org/"), donde obtuve conocimientos en:
+Antes de este Bootcamp, estudié por mi cuenta y en plataformas como [Platzi](https://platzi.com/ "https://platzi.com/") y [Freecodecamp](https://www.freecodecamp.org/ "https://www.freecodecamp.org/"), donde obtuve conocimientos en:
 
 - Bases teóricas de programación e informática 📖
 - HTML, CSS y JavaScript 💻
-- Habilidades blandas
-- Y más...
+- Habilidades blandas 🤝🏻
+- Y más... 👀
 
 ---------------------------------------------------------------------------------------------------
 
-## Terminal 💻
+## Hobbies e Intereses 🎮👦🏻
 
-### Tabla con comandos de la terminal de WSL/Ubuntu que he aprendido y usado bastante 🙌🏻
+### Me gusta:
 
-|          Comando          |                              Descripción                                                              |
-|---------------------------|-------------------------------------------------------------------------------------------------------|
-|          ``pwd``          | Permite conocer la ruta absoluta en la que nos encontremos trabajando.                                |
-|          ``ls``           | Permite conocer una lista de los archivos contenidos dentra de la carpeta en la que estemos ubicados. |
-|          ``cd``           | Permite navegar a través de los distintos directorios que creemos en nuestra área de trabajo.         |
-|          ``wget``         | Permite descargar archivos directamente con su url.                                                   |
-|       ``git clone``       | Permite clonar cualquier repositorio de [GitHub](https://github.com/ "https://github.com/") directamente a nuestra área de trabajo local. |
-|         ``rmdir``         | Permite borrar/remover una o varias carpetas. |
+- La música y de forma autodidacta aprendí a tocar el piano 🎹🎵.
+- Enseñar👨🏻‍🏫. Es una forma muy positiva de fijar conocimientos y apoyar a otros en el proceso 🧠✨.
+- Optimizar 🔧. Creo que para casi todo existe *la forma más **óptima*** para hacerla 🙌🏻.
+- Investigar 🔬🤔. Disfruto buscar y entender el ***"¿Por qué?"*** de las cosas.
 
-### Tabla de **comandos ***alias***** útiles para el día a día de un/a desarrollador/a 👨🏻‍💻👩🏻‍💻
+## Encuéntrame 🔎
 
-|          Comando          |                              Descripción                                                              |
-|---------------------------|-------------------------------------------------------------------------------------------------------|
-|          ``cl``           | Sería una abreviación para el comando ``clear`` y hace lo mismo, limpiar la consola. |
-|          ````           | |
-|          ````           | |
-|          ````         | |
+- Mi [Github](https://github.com/DivPanda). Próximamente estaré haciendo proyectos para aplicar lo aprendido 🙌🏻
+
+---------------------------------------------------------------------------------------------------
