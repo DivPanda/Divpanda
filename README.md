@@ -8,7 +8,7 @@ Desde mi adolescencia tengo interés por las tecnologías y su evolución a lo l
 
 ## Experiencia previa en este campo 🏗️
 
-Antes de este Bootcamp, estudié por mi cuenta y en plataformas como [Platzi](https://platzi.com/ "https://platzi.com/") y [Freecodecamp](https://www.freecodecamp.org/ "https://www.freecodecamp.org/"), donde obtuve conocimientos en:
+Estudié por mi cuenta y en plataformas como [Platzi](https://platzi.com/ "https://platzi.com/") y [Freecodecamp](https://www.freecodecamp.org/ "https://www.freecodecamp.org/"), donde obtuve conocimientos en:
 
 - Bases teóricas de programación e informática 📖
 - HTML, CSS y JavaScript 💻
