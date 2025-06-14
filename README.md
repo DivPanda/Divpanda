@@ -1,6 +1,4 @@
-# Hola 👋🏻, mi nombre es Guillermo Bello
-
-## Soy estudiante del Bootcamp `Full-stack JavaScript Developer` de **Undefined Academy** 💻📚
+# Hola 👋🏻, mi nombre es Guillermo 💻📚
 
 Desde mi adolescencia tengo interés por las tecnologías y su evolución a lo largo de la historia. Me encanta aprender cosas nuevas y, después de haber cursado distintas carreras en la Universidad y no haber hecho ese ***click***, creo que la vida me fue encaminando para llegar a este momento.
 
